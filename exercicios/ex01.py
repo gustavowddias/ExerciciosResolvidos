@@ -19,4 +19,4 @@ lista = [2, 7, 11, 15]
 
 solucao = Solution()
 
-print(solucao.twoSum(lista, 9))
+solucao.twoSum(lista, 9)
