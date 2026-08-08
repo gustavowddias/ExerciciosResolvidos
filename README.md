@@ -6,14 +6,14 @@ programadores com uma base sólida e confiança para enfrentar uma montanha de e
 
 ---
 
-[Easy 🟩 Ex01 - TwoSum](https://github.com/gustavowddias/ExerciciosResolvidos/blob/main/ex01.py)
+[Easy 🟩 Ex01 - TwoSum](https://github.com/gustavowddias/ExerciciosResolvidos/blob/main/exercicios/ex01.py)
 
 Escreva uma função que recebe uma lista de inteiros e um número alvo(inteiro). A função deve ler a lista e retornar os índices de dois números cujo a soma resulte no alvo(inteiro).
 
-[Easy 🟩 Ex02 - IsPalindrome](https://github.com/gustavowddias/ExerciciosResolvidos/blob/main/ex02.py)
+[Easy 🟩 Ex02 - IsPalindrome](https://github.com/gustavowddias/ExerciciosResolvidos/blob/main/exercicios/ex02.py)
 
 Escreva uma função que retorne "True" para números palíndromos e "False" para qualquer outra coisa.
 
-[Easy 🟩 Ex03 - RomanToInteger](https://github.com/gustavowddias/ExerciciosResolvidos/blob/main/ex03.py)
+[Easy 🟩 Ex03 - RomanToInteger](https://github.com/gustavowddias/ExerciciosResolvidos/blob/main/exercicios/ex03.py)
 
 Escreva uma função que converta algarismo romano para um número inteiro.
